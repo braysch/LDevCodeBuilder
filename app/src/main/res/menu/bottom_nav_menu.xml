@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/info_item"
+        android:icon="@drawable/ic_baseline_info_24"
+        android:title="Info" />
+
+    <item
+        android:id="@+id/config_item"
+        android:icon="@drawable/ic_baseline_grid_view_24"
+        android:title="Configuration" />
+
+    <item
+        android:id="@+id/instructions_item"
+        android:icon="@drawable/ic_instructions"
+        android:title="Instructions" />
+
+    <item
+        android:id="@+id/variable_item"
+        android:icon="@drawable/ic_asset_1"
+        android:title="Variables" />
+
+    <item
+        android:id="@+id/v_controls_item"
+        android:icon="@drawable/ic_baseline_videogame_asset_24"
+        android:title="Virtual Controls" />
+</menu>
